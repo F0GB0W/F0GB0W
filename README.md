@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @F0GB0W
-- 👀 I’m interested in JS / Vue.js
-- 🌱 I’m currently learning JS / Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JS / JAVA
+- 🌱 I’m currently learning JS / JAVA
 - 📫 How to reach me fogbow.juni@gmail.com
 
 <!---
