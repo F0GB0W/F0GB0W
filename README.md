@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F0GB0W
 - 👀 I’m interested in JS / JAVA
-- 🌱 I’m currently learning JS / JAVA
+- 🌱 I’m currently learning JS / JAVA / React
 - 📫 How to reach me fogbow.juni@gmail.com
 
 <!---
