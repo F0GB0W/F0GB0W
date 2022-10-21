@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @F0GB0W
+- 👋 Hi, I’m @F0GB0W, Just call me Juni or Fogbow!
 - 👀 I’m interested in JS / JAVA
 - 🌱 I’m currently learning JS / JAVA 
 - 📫 How to reach me fogbow.juni@gmail.com
